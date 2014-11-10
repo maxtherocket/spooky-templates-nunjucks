@@ -1,0 +1,27 @@
+{
+  "name": "spooky-templates-nunjucks",
+  "version": "0.0.0",
+  "description": "Nunjucks templates for spooky framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxtherocket/spooky-templates-nunjucks.git"
+  },
+  "author": "Max Rusan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxtherocket/spooky-templates-nunjucks/issues"
+  },
+  "homepage": "https://github.com/maxtherocket/spooky-templates-nunjucks",
+  "dependencies": {
+    "spooky-templates-base": "0.0.0"
+  },
+  "devDependencies": {
+    "nunjucks": "~1.1.0",
+    "gulp-browserify": "~0.5.0",
+    "gulp": "~3.8.10"
+  }
+}
